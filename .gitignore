@@ -11,7 +11,7 @@ node_modules/
 dist-ssr/
 
 # Ignore frontend dist (Render will build it)
-frontend/dist/
+# frontend/dist/
 
 # Local environment variables
 .env
